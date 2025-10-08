@@ -137,33 +137,6 @@
 <!-- Animated Section Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- GitHub Stats - Only Real Data -->
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<table>
-<tr>
-<td align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiruvarankanM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-</td>
-<td align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiruvarankanM&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</td>
-</tr>
-</table>
-
-<!-- GitHub Streak - Real Data Only -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiruvarankanM&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiruvarankanM&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true"/>
-</p>
-
-</div>
 
 <!-- Animated Section Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
