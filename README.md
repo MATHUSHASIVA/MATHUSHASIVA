@@ -18,7 +18,7 @@
 <td align="center" style="border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; color: white;">
   
 ### 🎯 About My Journey  
-🤖 AI & NLP Enthusiast | 💻 Full-Stack Developer | ⚡ Deep Learning Researcher | 🧠 Generative AI & LLM Innovator | 🔍 Applied Machine Learning Practitioner | ♟️ Strategic Chess Enthusiast
+🤖 AI & NLP Enthusiast | 💻 Full-Stack Developer | ⚡ Deep Learning Researcher | 🧠 Generative AI & LLM Innovator | 🔍 Applied Machine Learning Practitioner 
 
 
 
